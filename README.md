@@ -1,0 +1,2 @@
+# mjrs.com
+blog
